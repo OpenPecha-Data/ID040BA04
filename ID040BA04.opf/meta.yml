@@ -1,0 +1,32 @@
+id: ID040BA04
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:14:05.071252'
+last_modified: '2022-06-11T13:14:05.071262'
+parser: null
+source_metadata:
+  title: Tulku Urgyen Rinpoche
+  language: en
+  description: 'Texts by and about Tulku Urgyen Rinpoche (sprul sku o rgyan rin po
+    che, 1920–1996), one of the most celebrated teachers of Dzogchen and Mahāmudrā
+    in recent times:'
+  volume:
+    fDE93:
+      title: 'Luminous Clouds of Spontaneous Song: A Prayer to Call the Guru from
+        Afar'
+      base_file: fDE93.txt
+      order: 1
+      parent: Calling the Guru from Afar
+    f9336:
+      title: In Praise of the Hidden Valley of Kyimolung
+      base_file: f9336.txt
+      order: 2
+      parent: Pilgrimage
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
